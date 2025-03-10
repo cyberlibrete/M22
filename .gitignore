@@ -1,0 +1,7 @@
+.vscode
+.vs
+/build
+/docs
+
+.exe
+.txt
