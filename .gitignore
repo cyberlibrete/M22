@@ -3,5 +3,5 @@
 /build
 /docs
 
-.exe
-.txt
+*.exe
+*.txt
