@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout	<< "MODULE 22 | Task 01" << std::endl
+	std::cout	<< "MODULE 22 | Task 02" << std::endl
 				<< "Electronic queue" << std::endl
 				<< "-------------------" << std::endl << std::endl;
 	
